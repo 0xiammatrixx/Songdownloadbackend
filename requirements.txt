@@ -1,0 +1,4 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+youtube-explode-fallback==0.1.0
+pydantic==1.10.9
